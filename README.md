@@ -47,7 +47,6 @@ Aqui una lista de libros registrados.
 
 
 
-## Autor
 
-- [@hmsjuan](https://github.com/hmsjuan)
+
 
